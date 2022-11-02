@@ -1,5 +1,5 @@
  👋 Hi, I’m @BennettQiuThinkJava
- I'm a computer science major student and currently studying java right now
+ I'm a computer science major student and currently studying java.
 
 
 <!---
